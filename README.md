@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFDF80&hight=200&section=header&text=😄Yuyu👩🏻‍💻&fontSize=70&fontColor=F7F7F9)
 # #about
 Hi there! <br>
-I'm Yurim Lee 👩🏻 and I am studying about front-end development.👩🏻‍💻<br>
+I'm Yurim Lee 👩🏻 and I'm studying about front-end development.👩🏻‍💻<br>
 I want to be a cool women dveloper👍.so I'm studying computer science and programming hard💕.<br>
 I'm very interested in web development😁.<br>
 
