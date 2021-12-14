@@ -22,7 +22,10 @@ I want to be a cool women developer👍.so I'm studying computer science and pro
 I'm very interested in web development😁.<br>
 
 # #contact
-![Gmail](https://img.shields.io/badge/Gmail-F7DF1E?style=flat-square&logo=Gmail&logoColor=black)<a href="https://ylee981352@gmail.com"></a>
+<a href="https://ylee981352@gmail.com">
+    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://ylee981352@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 # #skill
 ![build Status](https://img.shields.io/badge/-javascript-ffffff?style=flat&logo=javascript)![build Status](https://img.shields.io/badge/-html-FFAC7D?style=flat&logo=html5)![build Status](https://img.shields.io/badge/-css-7D8AFF?style=flat&logo=css3)
