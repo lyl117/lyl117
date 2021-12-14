@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 # #about
 Hi there! <br>
 I'm Yurim Lee 👩🏻 and I'm studying about front-end development.👩🏻‍💻<br>
-I want to be a cool women dveloper👍.so I'm studying computer science and programming hard💕.<br>
+I want to be a cool women developer👍.so I'm studying computer science and programming hard💕.<br>
 I'm very interested in web development😁.<br>
 
 # #contact
-![Gmail](https://img.shields.io/badge/Gmail-F7DF1E?style=flat-square&logo=Gmail&logoColor=black)
+![Gmail](https://img.shields.io/badge/Gmail-F7DF1E?style=flat-square&logo=Gmail&logoColor=black)matilto:hey.hyungki@gmail.com
 
 # #skill
 ![build Status](https://img.shields.io/badge/-javascript-ffffff?style=flat&logo=javascript)![build Status](https://img.shields.io/badge/-html-FFAC7D?style=flat&logo=html5)![build Status](https://img.shields.io/badge/-css-7D8AFF?style=flat&logo=css3)
