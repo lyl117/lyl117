@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # #about
 Hi there! <br>
 I'm Yurim Lee 👩🏻 and I'm studying about front-end development.👩🏻‍💻<br>
-I want to be a cool women developer👍.so I'm studying computer science and programming hard💕.<br>
+I want to be a cool women developer👍.so I'm studying computer science and programming hard💕
 I'm very interested in web development😁.<br>
 
 # #contact
