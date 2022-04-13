@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFDF80&hight=200&section=header&text=😄Yuyu👩🏻‍💻&fontSize=70&fontColor=F7F7F9)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFDF80&hight=200&section=header&text=😄Yurim👩🏻‍💻&fontSize=70&fontColor=F7F7F9)
 # #about
 Hi there! <br>
 I'm Yurim Lee 👩🏻 
